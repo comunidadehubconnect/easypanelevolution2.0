@@ -32,6 +32,14 @@ Mande executar Criar
 
 ![image](https://github.com/user-attachments/assets/50e9f8a4-98d4-4e40-9f74-ce55ea7a4c80)
 
+Abra dominio
+
+![image](https://github.com/user-attachments/assets/989180e2-ec6c-4f6e-92b6-338daa051a3b)
+
+digite /manger no final
+
+![image](https://github.com/user-attachments/assets/1083aef7-51f0-4698-99a0-d85a0b456a5b)
+
 
 ### Pronto tudo Funcionando ✅😎
 
